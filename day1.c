@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
   int length,width;
+  //Formula To Find The Perimeter Of A Triabgle//
   printf("Enter Your length");
   scanf("%d",&length);
   printf("Enter The Value Of Width");
